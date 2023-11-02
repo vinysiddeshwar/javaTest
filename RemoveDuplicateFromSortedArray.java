@@ -9,6 +9,9 @@ import java.util.Scanner;
 //Return k.
 public class RemoveDuplicateFromSortedArray {
 
+     //Time Complexity =O(N)
+     //Space Complexity= O(1)
+
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
